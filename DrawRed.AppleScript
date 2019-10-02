@@ -6,6 +6,6 @@ tell application "System Events"
         click button 5 of window "annotation panel" -- Draw
         click button "Thin curve" of window "tool panel"
         click button 9 of window "annotation panel" -- Format
-        click checkbox 15 of window "format panel" -- Red
+        click checkbox 2 of window "format panel" -- Red
     end tell
 end tell
